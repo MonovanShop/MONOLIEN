@@ -12,12 +12,12 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 global.owner = [
-["5215562282745", 'Monkey Shop', true], //Capibot Premium
-["5215562282745", 'Monkey Shop', true], //Nekotina bot
-["5215562282745"]]
+["5215662050230", 'Monkey Shop', true], //Capibot Premium
+["5215662050230", 'Monkey Shop', true], //Nekotina bot
+["5215662050230"]]
 
-global.mods = ["5215562282745"]
-global.prems = ["5215562282745"]
+global.mods = ["5215662050230"]
+global.prems = ["5215662050230"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -112,9 +112,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["5215562282745", 'Monkey Bot', 1], 
-["5215562282745", 'Anthony', 1],  
-["5215562282745", 'Capibot', 1]]
+["5215662050230", 'Monkey Bot', 1], 
+["5215662050230", 'Anthony', 1],  
+["5215662050230", 'Capibot', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -159,7 +159,7 @@ global.exito = eg
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 global.wm = "Sr. Alíen "
 global.igfg = "Sr. Alíen "
-global.nomorown = "521556228274S"
+global.nomorown = "5215662050230"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
