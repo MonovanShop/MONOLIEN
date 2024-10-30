@@ -108,7 +108,7 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ⊜ *NekoCoins ➟* ${money} 🐈
 ⊜ *Tokens ➟* ${joincount} 🪙
 
-*╭━〔 🐈 OPCIONES DE MENU 🐈 〕⬣*
+*╭━〔 🐵 OPCIONES DE MENU 🐵 〕⬣*
 ┃
 ┃Ⓜ️ _*MENÚ COMPLETO*_ Ⓜ️
 ┃➺ _${usedPrefix}menucompleto | allmenu_
