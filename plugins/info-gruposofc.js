@@ -10,17 +10,17 @@ let str = `💕 𝘽𝙄𝙀𝙉𝙑𝙀𝙉𝙄𝘿𝙊(𝘼) 𝘼 𝙇𝙊𝙎
 ✅ 𝙂𝙍𝙐𝙋𝙊 𝙊𝙁𝙄𝘾𝙄𝘼𝙇 ${gt}
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ✨ *Informate de las Novedades!!!*
-🐈 *https://chat.whatsapp.com/EOyJAfDmfP8A501vSBzmPV*\n
+🐈 *https://chat.whatsapp.com/JGIxAhGuOeiJe2IlR04ZWj*\n
 🐈 𝐆𝐫𝐮𝐩𝐨 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 *1*
-*https://chat.whatsapp.com/L25FIOpK8BJ5AN0itIkMvS*\n
+*https://chat.whatsapp.com/JGIxAhGuOeiJe2IlR04ZWj*\n
 🐈 𝐆𝐫𝐮𝐩𝐨 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 *2*
-*https://chat.whatsapp.com/GVIZl2jyOruFqtKQOC8Vwb*\n
+*https://chat.whatsapp.com/JGIxAhGuOeiJe2IlR04ZWj*\n
 🐈 𝐆𝐫𝐮𝐩𝐨 𝐎𝐟𝐢𝐜𝐢𝐚𝐥 *3*
-*https://chat.whatsapp.com/LLqGV155mAQHJ2vMtxyEM2*\n
+*https://chat.whatsapp.com/JGIxAhGuOeiJe2IlR04ZWj*\n
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 *Por favor, no ingresar con números de Bots, y mantener el respeto.*`
 await conn.sendFile(m.chat, media, './_Menu2.jpg', str, fkontak)}
-/*conn.sendHydrated(m.chat, str, `𝙉𝙀𝙆𝙊𝙏𝙄𝙉𝘼 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼\n${asistencia}\n\n` + wm, media, 'https://github.com/GataNina-Li/GataBot-MD', '𝙉𝙀𝙆𝙊𝙏𝙄𝙉𝘼', null, null, [
+/*conn.sendHydrated(m.chat, str, `𝙈𝙊𝙉𝙆𝙀𝙔 𝘽𝙊𝙏 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼\n${asistencia}\n\n` + wm, media, 'https://chat.whatsapp.com/JGIxAhGuOeiJe2IlR04ZWj', '𝙈𝙊𝙉𝙆𝙀𝙔 𝘽𝙊𝙏', null, null, [
 ['𝘾𝙪𝙚𝙣𝙩𝙖𝙨 𝙊𝙛𝙞𝙘𝙞𝙖𝙡𝙚𝙨 | 𝘼𝙘𝙘𝙤𝙪𝙣𝙩𝙨 ✅', '.cuentasgb'],
 ['🎁 𝘿𝙤𝙣𝙖𝙧 | 𝘿𝙤𝙣𝙖𝙩𝙚', '.donar'],
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪 ☘️', '/menu']
